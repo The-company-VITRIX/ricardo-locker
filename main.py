@@ -13,7 +13,7 @@ class LockScreen:
         self.root.geometry("300x300")
         self.root.title("Екран заблоковано")
         self.root.attributes("-fullscreen", True)
-        self.password = "v4tr6v"
+        self.password = "rik"
         self.create_widgets()
   
     def create_widgets(self):
